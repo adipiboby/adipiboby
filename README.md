@@ -1,4 +1,4 @@
-# Hi 👋, I'm Boby
+# Hi 👋, I'm Manojkumar
 
 🚀 Full Stack Developer (React.js + Node.js + AWS)  
 💡 I build scalable, production-ready web applications with CI/CD and cloud deployment.
