@@ -82,7 +82,3 @@ A full-stack cloud-based file storage application with CI/CD and serverless depl
 - 🌱 Always open to collaboration & learning  
 
 ---
-
-## ⚡ Fun Fact
-
-I focus more on building real-world projects than just tutorials 🚀
